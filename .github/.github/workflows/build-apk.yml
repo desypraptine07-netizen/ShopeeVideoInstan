@@ -1,6 +1,6 @@
 name: Build Shopee Video Instan APK
 
-on:
+'on':
   workflow_dispatch:
 
 jobs:
